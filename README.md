@@ -1,2 +1,3 @@
-# next-sports-analytics-ms0c
-A sports data analytics platform for modern development workflows
+# Next Sports Analytics Ms0C
+
+A sports data analytics platform for modern development workflows.
